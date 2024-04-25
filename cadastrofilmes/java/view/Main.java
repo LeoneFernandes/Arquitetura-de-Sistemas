@@ -1,12 +1,12 @@
-package controller;
+package view;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+import controller.ComboController;
 import model.Combo;
 import model.Filme;
-import view.ComboController;
 
 public class Main {
     public static void main(String[] args) {
